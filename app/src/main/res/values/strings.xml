@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">itmo-example</string>
+    <string name="main_fragment_button_text">Start navigation</string>
+    <string name="first_button_text">A</string>
+    <string name="second_button_text">B</string>
+    <string name="third_button_text">C</string>
 </resources>
